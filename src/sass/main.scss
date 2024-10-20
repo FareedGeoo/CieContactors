@@ -1,0 +1,13 @@
+
+
+$primary: #424D79;
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import './layout/_layout';
+@import './pages/_pages';
+
+
+html{
+    font-size: 16px;
+}
+

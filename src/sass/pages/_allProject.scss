@@ -1,0 +1,12 @@
+.all-project {
+    .item {
+        @media screen and (min-width:714px)and (max-width:1024px) {
+            width: 21rem;
+        }
+
+        @media screen and (max-width: 714px) {
+
+            width: 22rem;
+        }
+    }
+}

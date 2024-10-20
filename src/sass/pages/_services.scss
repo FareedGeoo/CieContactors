@@ -1,0 +1,24 @@
+.serv-det{
+    width: 100;
+    overflow: hidden;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    @media screen and (max-width:714px)  {
+        text-align: center;
+    }
+    img{
+        width: 100%;
+        @media screen and (max-width:714px)  {
+            width: 30%;
+            margin: 3em;
+        }
+    }
+    .serv-prog{
+        @media screen and (max-width:714px)  {
+            text-align: center;
+        }
+    }
+}

@@ -1,0 +1,89 @@
+.project-Details {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    text-align: center;
+    @media screen and (max-width:714px) {
+
+        height: 160vh;
+
+
+    }
+    @media screen and (min-width:714px)and (max-width:1024px)  {
+        height: 120vh;
+    }
+    @media screen and (min-width:1024px)and (max-width:1080px)  {
+        height: 213vh;
+    }
+    @media screen and  (min-width:1080px)  {
+        
+        height: 178vh;
+
+    }
+    .carousel-inner {
+        width: 100%;
+
+        @media screen and (max-width:714px) {
+
+            width: 503px;
+
+
+        }
+    }
+
+    .item {
+        width: 86rem;
+
+        @media screen and (max-width:714px) {
+            width: 22rem;
+        }
+        @media screen and (min-width:714px)and (max-width:1024px)  {
+            width: 33rem;
+        }
+        @media screen and  (min-width:1080px)  {
+        
+            width: 59rem;
+        
+            }
+
+        img {
+            height: 35rem;
+        }
+    }
+
+    .carousel-control-next {
+        top: 50%;
+        left: 93%;
+
+        @media screen and (max-width:714px) {
+            top: 84%;
+            left: 74%;
+            right: 17%;
+        }
+        @media screen and (min-width:714px)and (max-width:1024px)  {
+            left: 85%;
+            right: 7%;
+        }
+        @media screen and  (min-width:1080px)  {
+        
+            right: 4%;
+        
+            }
+    }
+
+    .carousel-control-prev {
+        top: 50%;
+        left: 4%;
+
+        @media screen and (max-width:714px) {
+            top: 84%;
+            left: 61%;
+        }
+        @media screen and (min-width:714px)and (max-width:1024px)  {
+            left: 7%;
+        }
+    }
+}
