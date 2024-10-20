@@ -51,6 +51,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://fareedgeoo.github.io/CieContactors/",
   "eslintConfig": {
     "extends": [
       "react-app",
