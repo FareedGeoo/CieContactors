@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CieContactors/home/static/css/main.71394dbc.css",
-    "main.js": "/CieContactors/home/static/js/main.b2bcdfc4.js",
+    "main.css": "/CieContactors/home/static/css/main.ec4ca39a.css",
+    "main.js": "/CieContactors/home/static/js/main.c4477415.js",
     "static/media/logo.png": "/CieContactors/home/static/media/logo.c330687d3a12a894b46e.png",
     "static/media/fa-solid-900.ttf": "/CieContactors/home/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/arno-senoner-WFzfX_n7qv4-unsplash 1.png": "/CieContactors/home/static/media/arno-senoner-WFzfX_n7qv4-unsplash 1.4a87e2e9688374be82dc.png",
@@ -23,11 +23,11 @@
     "static/media/slick.ttf": "/CieContactors/home/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/CieContactors/home/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/CieContactors/home/index.html",
-    "main.71394dbc.css.map": "/CieContactors/home/static/css/main.71394dbc.css.map",
-    "main.b2bcdfc4.js.map": "/CieContactors/home/static/js/main.b2bcdfc4.js.map"
+    "main.ec4ca39a.css.map": "/CieContactors/home/static/css/main.ec4ca39a.css.map",
+    "main.c4477415.js.map": "/CieContactors/home/static/js/main.c4477415.js.map"
   },
   "entrypoints": [
-    "static/css/main.71394dbc.css",
-    "static/js/main.b2bcdfc4.js"
+    "static/css/main.ec4ca39a.css",
+    "static/js/main.c4477415.js"
   ]
 }
