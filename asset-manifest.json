@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.css": "/CieContactors/static/css/main.8b6b5bdd.css",
-    "main.js": "/CieContactors/static/js/main.ea7c13f5.js",
+    "main.css": "/CieContactors/static/css/main.4b03c4a0.css",
+    "main.js": "/CieContactors/static/js/main.4194d406.js",
     "static/media/logo.png": "/CieContactors/static/media/logo.c330687d3a12a894b46e.png",
     "static/media/fa-solid-900.ttf": "/CieContactors/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/arno-senoner-WFzfX_n7qv4-unsplash 1.png": "/CieContactors/static/media/arno-senoner-WFzfX_n7qv4-unsplash 1.4a87e2e9688374be82dc.png",
+    "static/media/slide4.jpeg": "/CieContactors/static/media/slide4.b76d62a4078ceb64018f.jpeg",
     "static/media/felix-fuchs-P21wf6KAykw-unsplash 1.png": "/CieContactors/static/media/felix-fuchs-P21wf6KAykw-unsplash 1.4b4bf9a148846ef01542.png",
+    "static/media/cover.jpeg": "/CieContactors/static/media/cover.a24b84d0abdcad02e2ba.jpeg",
     "static/media/r-architecture-KqMaA8gDfl0-unsplash 1 (1).png": "/CieContactors/static/media/r-architecture-KqMaA8gDfl0-unsplash 1 (1).1ce85e321cab4aac43af.png",
     "static/media/fa-brands-400.ttf": "/CieContactors/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/alexander-andrews-A3DPhhAL6Zg-unsplash 1.png": "/CieContactors/static/media/alexander-andrews-A3DPhhAL6Zg-unsplash 1.8dd6c8a36fd38e7e0cf2.png",
-    "static/media/banner1.jpg": "/CieContactors/static/media/banner1.55c0ee9414bfc3121988.jpg",
     "static/media/justus-menke-RaWSEnux3xc-unsplash 1.png": "/CieContactors/static/media/justus-menke-RaWSEnux3xc-unsplash 1.881c3eb2d6fa6d6e08be.png",
     "static/media/fa-solid-900.woff2": "/CieContactors/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/slide3.jpeg": "/CieContactors/static/media/slide3.58321eafa6e73c6bb9bd.jpeg",
+    "static/media/slide5.jpeg": "/CieContactors/static/media/slide5.82aeb0ea839c8ecf42eb.jpeg",
     "static/media/fa-brands-400.woff2": "/CieContactors/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/slide1.jpeg": "/CieContactors/static/media/slide1.c12d0e0aab644c896c2d.jpeg",
     "static/media/fa-regular-400.ttf": "/CieContactors/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/slide2.jpeg": "/CieContactors/static/media/slide2.9ec33aa5e4ff5a07f06d.jpeg",
     "static/media/avatar.jpg": "/CieContactors/static/media/avatar.32980c0bea502f187727.jpg",
     "static/media/fa-regular-400.woff2": "/CieContactors/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
     "static/media/fa-v4compatibility.ttf": "/CieContactors/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
@@ -23,11 +28,11 @@
     "static/media/slick.ttf": "/CieContactors/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/CieContactors/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/CieContactors/index.html",
-    "main.8b6b5bdd.css.map": "/CieContactors/static/css/main.8b6b5bdd.css.map",
-    "main.ea7c13f5.js.map": "/CieContactors/static/js/main.ea7c13f5.js.map"
+    "main.4b03c4a0.css.map": "/CieContactors/static/css/main.4b03c4a0.css.map",
+    "main.4194d406.js.map": "/CieContactors/static/js/main.4194d406.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b6b5bdd.css",
-    "static/js/main.ea7c13f5.js"
+    "static/css/main.4b03c4a0.css",
+    "static/js/main.4194d406.js"
   ]
 }
