@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/CieContactors/static/css/main.4b03c4a0.css",
-    "main.js": "/CieContactors/static/js/main.4194d406.js",
+    "main.css": "/CieContactors/static/css/main.094ef37c.css",
+    "main.js": "/CieContactors/static/js/main.f3e74a52.js",
     "static/media/logo.png": "/CieContactors/static/media/logo.c330687d3a12a894b46e.png",
     "static/media/fa-solid-900.ttf": "/CieContactors/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/sob1.jpeg": "/CieContactors/static/media/sob1.97cd1f730224a1753b4d.jpeg",
     "static/media/arno-senoner-WFzfX_n7qv4-unsplash 1.png": "/CieContactors/static/media/arno-senoner-WFzfX_n7qv4-unsplash 1.4a87e2e9688374be82dc.png",
     "static/media/slide4.jpeg": "/CieContactors/static/media/slide4.b76d62a4078ceb64018f.jpeg",
     "static/media/felix-fuchs-P21wf6KAykw-unsplash 1.png": "/CieContactors/static/media/felix-fuchs-P21wf6KAykw-unsplash 1.4b4bf9a148846ef01542.png",
@@ -15,6 +16,7 @@
     "static/media/fa-solid-900.woff2": "/CieContactors/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
     "static/media/slide3.jpeg": "/CieContactors/static/media/slide3.58321eafa6e73c6bb9bd.jpeg",
     "static/media/slide5.jpeg": "/CieContactors/static/media/slide5.82aeb0ea839c8ecf42eb.jpeg",
+    "static/media/sob2.jpeg": "/CieContactors/static/media/sob2.a1e0d8988a0ae0a2f64d.jpeg",
     "static/media/fa-brands-400.woff2": "/CieContactors/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
     "static/media/slide1.jpeg": "/CieContactors/static/media/slide1.c12d0e0aab644c896c2d.jpeg",
     "static/media/fa-regular-400.ttf": "/CieContactors/static/media/fa-regular-400.d87474231f4192884802.ttf",
@@ -28,11 +30,11 @@
     "static/media/slick.ttf": "/CieContactors/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/CieContactors/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/CieContactors/index.html",
-    "main.4b03c4a0.css.map": "/CieContactors/static/css/main.4b03c4a0.css.map",
-    "main.4194d406.js.map": "/CieContactors/static/js/main.4194d406.js.map"
+    "main.094ef37c.css.map": "/CieContactors/static/css/main.094ef37c.css.map",
+    "main.f3e74a52.js.map": "/CieContactors/static/js/main.f3e74a52.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b03c4a0.css",
-    "static/js/main.4194d406.js"
+    "static/css/main.094ef37c.css",
+    "static/js/main.f3e74a52.js"
   ]
 }
