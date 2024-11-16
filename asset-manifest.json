@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CieContactors/static/css/main.094ef37c.css",
-    "main.js": "/CieContactors/static/js/main.f3e74a52.js",
+    "main.css": "/CieContactors/static/css/main.814246d9.css",
+    "main.js": "/CieContactors/static/js/main.bde11014.js",
     "static/media/logo.png": "/CieContactors/static/media/logo.c330687d3a12a894b46e.png",
     "static/media/fa-solid-900.ttf": "/CieContactors/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/sob1.jpeg": "/CieContactors/static/media/sob1.97cd1f730224a1753b4d.jpeg",
@@ -30,11 +30,11 @@
     "static/media/slick.ttf": "/CieContactors/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/CieContactors/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/CieContactors/index.html",
-    "main.094ef37c.css.map": "/CieContactors/static/css/main.094ef37c.css.map",
-    "main.f3e74a52.js.map": "/CieContactors/static/js/main.f3e74a52.js.map"
+    "main.814246d9.css.map": "/CieContactors/static/css/main.814246d9.css.map",
+    "main.bde11014.js.map": "/CieContactors/static/js/main.bde11014.js.map"
   },
   "entrypoints": [
-    "static/css/main.094ef37c.css",
-    "static/js/main.f3e74a52.js"
+    "static/css/main.814246d9.css",
+    "static/js/main.bde11014.js"
   ]
 }
